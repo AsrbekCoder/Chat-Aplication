@@ -1,0 +1,101 @@
+{
+  
+    "name": "iqlim-uz",
+  
+    "version": "0.1.0",
+  
+    "private": true,
+  
+    "dependencies": {
+  
+      
+    "@ant-design/icons": "^4.7.0",
+  
+      
+    "axios": "^0.24.0",
+  
+      
+    "react-chat-engine": "^1.11.22",
+  
+      
+    "react-scripts": "^5.0.0",
+  
+      
+    "scripts": "^0.1.0"
+  
+    },
+  
+    "scripts": {
+  
+      
+    "start": "react-scripts start",
+  
+      
+    "build": "react-scripts build",
+  
+      
+    "test": "react-scripts test",
+  
+      
+    "eject": "react-scripts eject"
+  
+    },
+  
+    "eslintConfig": {
+  
+      
+    "extends": [
+  
+      
+      
+    "react-app",
+  
+      
+      
+    "react-app/jest"
+  
+      
+    ]
+  
+    },
+  
+    "browserslist": {
+  
+      
+    "production": [
+  
+      
+      
+    ">0.2%",
+  
+      
+      
+    "not dead",
+  
+      
+      
+    "not op_mini all"
+  
+      
+    ],
+  
+      
+    "development": [
+  
+      
+      
+    "last 1 chrome version",
+  
+      
+      
+    "last 1 firefox version",
+  
+      
+      
+    "last 1 safari version"
+  
+      
+    ]
+  
+    }
+}
