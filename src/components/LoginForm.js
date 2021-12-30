@@ -27,7 +27,7 @@ const LoginForm = () => {
 
   return (
     <div className="container">
-      <form onSubmit={handelClick}>
+      <form className="form" onSubmit={handelClick}>
         <p>Welcome</p>
         <input
           type="text"
